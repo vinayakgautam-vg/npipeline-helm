@@ -1,6 +1,6 @@
 i
+main-41cd09e6
 am
-testing
     <html>
     <body>
     <h1>My first github pipeline</h1>
@@ -9,14 +9,9 @@ testing
     <h1>My first github pipeline</h1>
     <h1>My first github pipeline</h1>
     <h1>My first github pipeline</h1>
-    <h1>My first github pipeline</h1>
-    <h1>My first github pipeline</h1>
-    <h1>My first github pipeline</h1>
-    <h1>My first github pipeline</h1>
-    <h1>My first github pipeline</h1>
-    <h1>My first github pipeline</h1>
     </body>
     </html>
+testing
 config
 map
 in
